@@ -1,1 +1,3 @@
 http://ant0.ru/comment/52
+
+http://www.tech-notes.net/sed-examples/
